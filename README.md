@@ -1,7 +1,5 @@
 ### AI-ML-Practise
 
-Certainly! Below is a set of concise notes covering key machine learning concepts that are commonly asked in interviews and widely used in real-time applications. These notes provide a high-level overview, and you may want to delve deeper into each topic for a more comprehensive understanding.
-
 ### 1. **Supervised Learning:**
    - **Definition:** Learning a function that maps input data to output data based on example input-output pairs.
    - **Algorithms:** Linear Regression, Decision Trees, Support Vector Machines, Neural Networks.
@@ -73,5 +71,3 @@ Certainly! Below is a set of concise notes covering key machine learning concept
 ### 18. **Bias and Fairness:**
    - **Considerations:** Detecting and mitigating biases in models to ensure fair outcomes.
    - **Metrics:** Equal Opportunity, Demographic Parity.
-
-These notes cover a broad range of machine learning concepts commonly encountered in interviews and practical applications. Further studying and hands-on experience with real-world datasets and projects will deepen your understanding of these topics.
