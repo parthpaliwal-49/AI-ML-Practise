@@ -1,5 +1,3 @@
-Certainly! The choice of a classification or regression algorithm depends on the characteristics of your data and the nature of the problem you are trying to solve. Here's a guide on when to use each algorithm and why:
-
 ### Classification Algorithms:
 
 #### 1. **Logistic Regression:**
